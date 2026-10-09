@@ -28,3 +28,6 @@ Thank you to all of them for their great work.
 
 ## Disclaimer
 This is an unofficial translation. It is not made or supported by duckbill. The DBI author has stated that modified or translated builds may have hidden issues. Use at your own risk.
+
+## Report translation errors
+Found Russian text or a wrong translation? Please open an [Issue](../../issues) with a screenshot.
